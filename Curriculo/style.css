@@ -1,0 +1,212 @@
+/*TOPO*/
+body
+{
+    margin: 250px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c4c1c0;
+    margin-top: 0;
+}
+
+.name
+{
+    text-align: center;
+}
+
+.endereco
+{
+    text-align: center;
+}
+
+.eta
+{
+    text-align: center;
+}
+
+.tel
+{
+    text-align: center;
+}
+
+.email
+{
+    text-align: center;
+}
+
+/*Objetivo*/
+
+.objetivo
+{
+    margin: 20px;
+}
+
+.conteudo
+{
+    margin: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Competencias*/
+.compe{
+    margin: 20px;
+}
+
+.conteudo1
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo2
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo3
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo4
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo5
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo6
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Experiencia Profissional*/
+.EX
+{
+    margin: 20px;
+}
+
+.exp
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Formação*/
+.Forma{
+    margin: 20px;
+   
+}
+
+.senac{
+    margin: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reci{
+    margin: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pestana{
+    margin: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wizard{
+    margin: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logus{
+    margin: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pixel{
+    margin: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Habilidade*/
+.Habil{
+    margin: 20px;
+}
+
+.d1{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d2{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d3{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.d4{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d5{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d6{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Idioma*/
+.idio{
+    margin: 20px;
+}
+.in{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Premio*/
+.pre{
+    margin: 20px;
+}
+
+.tt{
+    font-weight: bold;
+    margin: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.um{
+    margin-left: 0.1;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@media screen and (max-width:auto){
+    body{
+        width: auto;
+        
+    }
+}
+
+
